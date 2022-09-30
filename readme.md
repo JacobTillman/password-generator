@@ -6,7 +6,7 @@ Here is a screenshot of the new page followed by the deployed link.
 
 <img src="./assets/images/site-screenshot.png" alt="Screenshot of New Page">
 
-jacobtillman.github.io/password-generator
+[Site]jacobtillman.github.io/password-generator
 
 
 
